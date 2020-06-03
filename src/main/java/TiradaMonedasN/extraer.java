@@ -1,18 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package TiradaMonedasN;
 
 import java.util.Scanner;
 
 /**
  *
- * @author user
+ * @author Salah Eddine
+ * @description Una clase extraida con el metodo main.
+ * @version 0.0.1
+ * 
  */
 public class extraer {
 
+    /**
+     * @see TiradaMonedaN
+     * @param args 
+     */
     public static void main(String[] args) {
         //las variables resultadoPrimeraTirada y resultadoTiradaDos servirán para guardar el resultado de la tirada de dos monedas
         int resultadoPrimeraTirada;
